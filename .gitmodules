@@ -1,0 +1,3 @@
+[submodule "skills/stick-figure-shorts"]
+	path = skills/stick-figure-shorts
+	url = https://github.com/deenukhan/stick-figure-shorts.git
